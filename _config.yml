@@ -32,7 +32,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/pp.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hey there! I'm Luis Gerardo, a passionate software developer who loves coding and creating useful things. With a knack for Python, Django, and agile project management, I’ve been working on projects like management systems for small businesses, web platforms for rental contracts, and tailored solutions for local companies.
 
